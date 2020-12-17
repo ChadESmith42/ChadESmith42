@@ -1,8 +1,8 @@
 ## How are you now?
 
-I'm currently working on some Angular Projects and learning to implement Google Cloud Services tools.
+I'm currently working on some React applications. I've not given up on Angular, but it's time to learn some new things!
 
-I work with Blue Cross Blue Shield of Kansas City as a Software Engineer II. I work mostly in Angular and .NET Core. I work with Azure DevOps and Azure services.
+I am a Software Engineer / Instructor at [Prime Digital Academy](https://primeacademy.io). I instruct new software engineers in full stack web development using the PERN stack. Previously, I was a Software Engineer II for [Blue Cross Blue Shield of Kansas City](https://members.bluekc.com). There, I worked with Angular, Azure Cloud Services, and C# APIs.
 
 In my spare time, I do various volunteer work. I work with [Coder Dojo](http://coderdojokc.com/) and [NgGirls](https://kcwomenintech.org/event/nggirls-all-day-programming-workshop/). I also mentor new developers in the KCMO area.
 

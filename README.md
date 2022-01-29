@@ -1,8 +1,6 @@
-## How are you now?
+## Trying to write better code than yesterday
 
-I'm currently working on some React applications. I've not given up on Angular, but it's time to learn some new things!
-
-I am a Software Engineer / Instructor at [Prime Digital Academy](https://primeacademy.io). I instruct new software engineers in full stack web development using the PERN stack. Previously, I was a Software Engineer II for [Blue Cross Blue Shield of Kansas City](https://members.bluekc.com). There, I worked with Angular, Azure Cloud Services, and C# APIs.
+I'm a software engineer. I like to work in Angular, C#, or Typescript. I like arrow functions and JSDOC.
 
 In my spare time, I do various volunteer work. I work with [Coder Dojo](http://coderdojokc.com/) and [NgGirls](https://kcwomenintech.org/event/nggirls-all-day-programming-workshop/). I also mentor new developers in the KCMO area.
 
